@@ -31,3 +31,6 @@ Balancing the imbalanced data is very important in ML in order to achieve the ri
 <hr>
 
 ![image](https://user-images.githubusercontent.com/64760966/129844393-3581d806-7cf6-4a1d-acb3-4f6792b598c4.png)
+
+
+<hr>
