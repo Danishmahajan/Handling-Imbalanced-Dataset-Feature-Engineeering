@@ -2,6 +2,10 @@
 
 * Imbalance means that the number of data points available for different the classes is different:
 If there are two classes, then balanced data would mean 50% points for each of the class. For most machine learning techniques, little imbalance is not a problem. So, if there are 60% points for one class and 40% for the other class, it should not cause any significant performance degradation. Only when the class imbalance is high, e.g. 90% points for one class and 10% for the other, standard optimization criteria or performance measures may not be as effective and would need modification.
+
+![image](https://user-images.githubusercontent.com/64760966/129844042-56698129-3ac8-4112-b0c5-618488c0b28a.png)
+
+
 <hr>
 
 ### Problem with Imbalanced data:
