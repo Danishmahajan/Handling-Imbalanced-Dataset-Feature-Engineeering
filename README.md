@@ -13,7 +13,7 @@ If there are two classes, then balanced data would mean 50% points for each of t
 Feeding imbalanced data to your classifier can make it biased in favor of the majority class, simply because it did not have enough data to learn about the minority.
 <hr>
 
-###### Let us understand the technique used for creating balanced data sets.
+### Let us understand the technique used for creating balanced data sets.
 
 ### Oversampling:
 
